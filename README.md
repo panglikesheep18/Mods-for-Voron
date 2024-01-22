@@ -2,9 +2,7 @@
 
 super spicy mods for Voron 3D printer that does not make sense for everyday use except me
 
-mods i made for Voron 0:
-
-mods i made for Voron 0:
+mods i made for [Voron 0](./Voron%200) :
 
 - optical endstop to eliminate infuriating offset caused by heat expansion and cool shrinking from mechanical endstops (requires Kirigami bed and ability to home to ZMAX [https://github.com/christophmuellerorg/voron_0_kirigami_bed])
 
